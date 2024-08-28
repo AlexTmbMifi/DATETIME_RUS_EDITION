@@ -1,5 +1,8 @@
 # Datetime_RUS_EDITION
 
+The datetime module supplies classes for manipulating dates and times.// Python
+
+REFERENCES: https://stepik.org/course/82541 - "Поколение Python": курс для профессионалов
 
 # 1. Модуль date и time
 
